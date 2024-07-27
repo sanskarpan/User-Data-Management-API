@@ -1,5 +1,4 @@
 <?php
-// src/MessageHandler/EmailNotificationHandler.php
 
 namespace App\MessageHandler;
 
